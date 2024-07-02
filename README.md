@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://ibb.co/FDBHK0B)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nawshad Kamal</h1>
 <h3 align="center">A passionate frontend developer and especially in mern stack.</h3>

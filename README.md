@@ -1,10 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/d0/fc/05/d0fc05ad092c7ef4922a7c5e994a4eaf.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nawshad Kamal</h1>
 <h3 align="center">A passionate frontend developer and especially in mern stack.</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.png"/>
 
-- Hi I'm Student **Currently pursuing B.B.A**
+- Hi I'm Student **Currently pursuing a B.B.A Degree**
 
 - I'm a Web Developer **work with mern stack**
 
